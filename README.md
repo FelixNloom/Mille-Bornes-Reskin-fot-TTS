@@ -1,6 +1,7 @@
 # Mille-Bornes-Reskin-fot-TTS
 A BananaROMa themes reskin of the French card game, Mille Bornes. In this rendition the objective is to stream for X hours before the other players.
-# List of cards
+
+# List of cards in original Mille Bornes card game
 ## Hazards:
 Accident:3</br>
 Out of Gas:3</br>
@@ -23,5 +24,5 @@ Right of Way:1</br>
 50 Mile:10</br>
 75 Mile:10</br>
 100 Mile:12</br>
-200 Mile:4</br>
+200 Mile:4</br></br>
 Also included in the deck are nonplayable cards that list the playable cards and summarize the scoring. In some decks, some of these are printed entirely in French.
